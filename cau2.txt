@@ -1,0 +1,14 @@
+Đánh giá:
+1. Màu của trang web: bắt mắt phù hợp;
+2. Bố cục đầy đủ những phần chính của 1 trang web;
+
+Góp ý: 
+1. Vì trong web có rất ít nút nên có thể làm nổi bật các nút lên (thêm màu mè, tăng kích cỡ) để người dùng biết và muốn click vào
+2. Style các nút nên làm theo 1 kiểu giống nhau mang tính nhất quán
+3. Logo web nên tăng kích cỡ và Khác kiểu cho bắt mắt hơn.
+4. Navbar thêm shadow thì sẽ đẹp hơn làm nổi banner
+5. Phần "Kha'zik's Kiler Skill" padding trên dưới hơi rộng, thêm hiệu ứng khi hover vào item bên dưới để người dùng biết cái đó bấm được
+6. bỏ phần "If you want to play game with me" không cần thiết, nên thêm phần đó vào trang contact me, nếu không muốn thì có thểm thêm nó vào footer.
+7. footer hơi to quá nên thêm thông tin về web vào đó.
+8. modal sơ sài nên cho hiển thị ra giữa và làm cho text gọn gàng hơn
+9. chưa có responsive.

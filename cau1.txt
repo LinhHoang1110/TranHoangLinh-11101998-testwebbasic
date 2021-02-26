@@ -1,0 +1,2 @@
+Kết quả liên quan đến cách khai báo i trong for loop
+khi dùng let thì i sẽ là biến ở bên trong block scope còn var thì sẽ là biến local scope.
